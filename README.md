@@ -6,6 +6,8 @@ My interests are:
 - Web devloping
 - QA  Engineering
 - Cricket🏏
+
+
 You can reach me at vaghela5@uwindsor.ca and via Linkedin- https://www.linkedin.com/in/jaydip-vaghela-b4a9451b7/
 <!--
 **jaydeepsinh9/jaydeepsinh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
