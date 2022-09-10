@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### 
+Hi my name is Jaydip. I am a Computer Science- Applied Computing(H) student at University of Windsor.
+I posses knowledge of C , Java , HTML , CSS , JavaScript and a little bit of C++.
+I am enthusiastic learner who is improving my self and knowledge on the daily basis.
+My interests are:
+- Web devloping
+- QA  Engineering
+- Cricket🏏
+You can reach me at vaghela5@uwindsor.ca and via Linkedin- https://www.linkedin.com/in/jaydip-vaghela-b4a9451b7/
 <!--
 **jaydeepsinh9/jaydeepsinh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
