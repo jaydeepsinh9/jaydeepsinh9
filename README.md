@@ -14,7 +14,7 @@ I am enthusiastic learner who is improving my self and knowledge on the daily ba
 
 
 
-You can reach me at vaghela5@uwindsor.ca and via Linkedin- https://www.linkedin.com/in/jaydip-vaghela
+You can reach me at jaydeepsinh1484@gmail.com and via Linkedin- https://www.linkedin.com/in/jaydip-vaghela
 <!--
 **jaydeepsinh9/jaydeepsinh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
